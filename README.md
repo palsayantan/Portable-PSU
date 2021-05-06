@@ -2,6 +2,8 @@
 
 *In this project I tried to overcome a very common issue while working on a portable electronics project. That is how to power my circuits*
 
+![alt text](https://github.com/palsayantan/Portable-PSU/blob/main/IMG/photo_2021-05-06_00-13-45.jpg)
+
 - This is a tiny and compact portable Power supply module that runs on 2 18650 li-ion battery. 
 - It has separated output for 3.3v, 5v and an adjustable voltage output. You can turn on or off each outputs individually. 
 - On the board there are pin headers, screw terminals and barrel DC connecter which you can use to get those output voltages. 
