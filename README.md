@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/palsayantan/Portable-PSU/blob/main/IMG/photo_2021-05-06_00-13-49.jpg)
 
-## This project is fully Open Source so feel free to use/modify it according to your choice
+#### This project is fully Open Source so feel free to use/modify it according to your choice
 
 - This is a tiny and compact portable Power supply module that runs on 2 18650 li-ion battery. 
 - It has separated output for 3.3v, 5v and an adjustable voltage output. You can turn on or off each outputs individually. 
